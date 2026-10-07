@@ -1,5 +1,6 @@
 <body>
 	<h1>Projecte Welcome1</h1>
+    <p>Estoy haciendo una práctica de Git.</p>
 	<ul>
 
 	<?php 
